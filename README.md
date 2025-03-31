@@ -43,16 +43,5 @@ The analysis follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 3. **Contact Method**: The telephone contact method appears to be an important feature in predicting subscription outcomes, suggesting different response patterns compared to cellular contacts.
 4. **Economic Considerations**: Macroeconomic indicators are the strongest predictors of campaign success. Consider reducing campaign intensity during unfavorable economic periods.
 
-## File Structure
-- `bank_classifier_analysis.ipynb`: Jupyter notebook containing the complete analysis
-- `data/`: Directory containing the dataset
-- `README.md`: This file summarizing the project
-
-## Usage
-To run the analysis:
-1. Ensure you have Python and the required libraries installed (pandas, numpy, scikit-learn, matplotlib, seaborn)
-2. Open the Jupyter notebook `bank_classifier_analysis.ipynb`
-3. Run all cells to reproduce the analysis
-
 ## Conclusion
 This analysis demonstrates how machine learning can be applied to optimize bank marketing campaigns. By targeting clients with a higher likelihood of subscribing to term deposits, the bank can allocate its resources more efficiently and improve the return on investment for its marketing efforts. The findings suggest that economic conditions play a crucial role in the success of marketing campaigns, which should inform the timing and targeting of future efforts.
